@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+### A collections of various stary animal rescue info
 
-You can use the [editor on GitHub](https://github.com/just9293/stray0/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+#### 香港貓狗及寵物報料區-(義工/被虐/失蹤/目擊/領養)  
+------------------------------------------------   
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Link: https://www.facebook.com/groups/971927279547408/?ref=share
 
-### Markdown
+About:  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  不可發報宣傳交易買賣及任何收取利益的帖子
+  任何幫助貓狗隻及寵物情報 皆可分享
+  盡可能分享給身邊朋友加入 :
+  若有人遺失貓狗寵物 可令寵物盡快安全回到主人身邊
+  若有人遺棄貓狗寵物 可令寵物盡快被愛心人士領養
+  若有流浪貓狗被攻擊虐待 可令動物盡快得到救援
+  功德無量
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+#### 黃色領養谷  
+--------------   
 
-- Bulleted
-- List
+Link: https://www.facebook.com/groups/2529206997336951/?ref=share  
 
-1. Numbered
-2. List
+About:  
 
-**Bold** and _Italic_ and `Code` text
+  黃色領養谷顧名思義係畀黃色義工尋黃色領養人嘅地方。當藍色嘅領養人撐警濫捕同虐打市民時，黃色義工又豈能放心交托自己辛苦拯救回來嘅貓狗比佢哋咩？  
+  
 
-[Link](url) and ![Image](src)
-```
+####  連寵拯救隊 Pet With You 
+----------------------------   
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Link: https://www.petwithyouhk.com/  
 
-### Jekyll Themes
+慈善牌照號碼：91/17735
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/just9293/stray0/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
